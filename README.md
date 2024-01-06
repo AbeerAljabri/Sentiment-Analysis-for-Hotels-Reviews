@@ -13,6 +13,6 @@ Various machine learning algorithms were explored, including logistic regression
 
 ### Built with
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=Jupyter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jupyter)](https://skillicons.dev)
 
 
