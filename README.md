@@ -9,7 +9,7 @@ Various machine learning algorithms were explored, including logistic regression
 ### Dataset source
 [Datafinite Hotel Reviews](https://www.kaggle.com/datasets/datafiniti/hotel-reviews?select=Datafiniti_Hotel_Reviews.csv )
 
-[Tripadvisor](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews)
+[Trip Advisor Hotel Reviews](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews)
 
 ### Built with
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
